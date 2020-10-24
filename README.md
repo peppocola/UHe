@@ -1,0 +1,2 @@
+# UHe
+Ugly Haskell exercises
